@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u8MlzUp8cEJd5UhbmPLpAkIkofbONorzbh51ymcIVnZNJUvfifisQNI/tRhWzEkqR2sLzHTYwBSb8QkEqa6kmQ==",
+  "success": true,
+  "projectFilePath": "G:\\.net development\\Calculator\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dania\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
