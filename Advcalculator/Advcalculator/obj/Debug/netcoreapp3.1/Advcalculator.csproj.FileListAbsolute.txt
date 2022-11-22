@@ -1,0 +1,14 @@
+G:\.net development\Advcalculator\Advcalculator\bin\Debug\netcoreapp3.1\Advcalculator.exe
+G:\.net development\Advcalculator\Advcalculator\bin\Debug\netcoreapp3.1\Advcalculator.deps.json
+G:\.net development\Advcalculator\Advcalculator\bin\Debug\netcoreapp3.1\Advcalculator.runtimeconfig.json
+G:\.net development\Advcalculator\Advcalculator\bin\Debug\netcoreapp3.1\Advcalculator.runtimeconfig.dev.json
+G:\.net development\Advcalculator\Advcalculator\bin\Debug\netcoreapp3.1\Advcalculator.dll
+G:\.net development\Advcalculator\Advcalculator\bin\Debug\netcoreapp3.1\Advcalculator.pdb
+G:\.net development\Advcalculator\Advcalculator\obj\Debug\netcoreapp3.1\Advcalculator.csproj.AssemblyReference.cache
+G:\.net development\Advcalculator\Advcalculator\obj\Debug\netcoreapp3.1\Advcalculator.GeneratedMSBuildEditorConfig.editorconfig
+G:\.net development\Advcalculator\Advcalculator\obj\Debug\netcoreapp3.1\Advcalculator.AssemblyInfoInputs.cache
+G:\.net development\Advcalculator\Advcalculator\obj\Debug\netcoreapp3.1\Advcalculator.AssemblyInfo.cs
+G:\.net development\Advcalculator\Advcalculator\obj\Debug\netcoreapp3.1\Advcalculator.csproj.CoreCompileInputs.cache
+G:\.net development\Advcalculator\Advcalculator\obj\Debug\netcoreapp3.1\Advcalculator.dll
+G:\.net development\Advcalculator\Advcalculator\obj\Debug\netcoreapp3.1\Advcalculator.pdb
+G:\.net development\Advcalculator\Advcalculator\obj\Debug\netcoreapp3.1\Advcalculator.genruntimeconfig.cache
